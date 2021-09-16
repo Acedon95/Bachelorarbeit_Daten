@@ -1,1 +1,8 @@
-.
+Decon2LS.dta2d: Auflistung aller von Decon2LS als monoisotopisch identifizierten Peaks
+  Spalte 1: Retentionszeit des Peaks
+  Spalte 2: m/z Wert des Peaks
+  Spalte 3: Intensität des Peaks
+filtPeaksRT.txt: Auflistung aller von Hardklör als monoisotopisch identifizierten Peaks
+  Spalte 1: Retentionszeit des Peaks
+  Spalte 2: m/z Wert des Peaks
+  Spalte 3: Intensität des Peaks
