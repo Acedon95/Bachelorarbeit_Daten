@@ -1,0 +1,8 @@
+06/10/2021 16:01:39	DeconTools.Backend.dll version = v2.0.7675.31322
+06/10/2021 16:01:39	ParameterFile = SampleParameterFile.xml
+06/10/2021 16:01:39	UIMFLibrary version = v3.7.3.0
+06/10/2021 16:01:52	Finished file processing
+06/10/2021 16:01:52	total processing time = 00:00:12
+06/10/2021 16:01:52	total scans processed = 1
+06/10/2021 16:01:52	processing rate = 5 scans/minute
+06/10/2021 16:01:52	total features = 411
