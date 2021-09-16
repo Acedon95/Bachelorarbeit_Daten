@@ -101,9 +101,9 @@ protected:
     // calculations
     //-------------------------------------------------------------
 
-    //DeisotoperRieckert::dataAnalysis(mzml,xml);
-    //DeisotoperRieckert::realKLD();
-    DeisotoperRieckert::zeitmessung();
+    //DeisotoperRieckert::dataAnalysis(inMzML,inXML);
+    DeisotoperRieckert::realKLD();
+    //DeisotoperRieckert::zeitmessung();
 
     //-------------------------------------------------------------
     // writing output
