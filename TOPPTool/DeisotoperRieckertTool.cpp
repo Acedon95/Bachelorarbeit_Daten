@@ -103,6 +103,7 @@ protected:
 
     //DeisotoperRieckert::dataAnalysis(inMzML,inXML);
     DeisotoperRieckert::realKLD();
+    //DeisotoperRieckert::zeitmessung();
     //-------------------------------------------------------------
     // writing output
     //-------------------------------------------------------------
